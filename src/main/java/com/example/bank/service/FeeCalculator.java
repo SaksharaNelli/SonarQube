@@ -4,6 +4,7 @@ public class FeeCalculator {
 
     public int averageFee(int totalFee) {
         int accounts = 0;
+        int val=0;
         return totalFee / accounts;
     }
 
